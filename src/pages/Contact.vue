@@ -45,10 +45,10 @@
           class="p-3 border-2 border-[#3c3c3c] rounded-xl w-full mb-5"
           placeholder="Your Message"
           required
-          data-form-input=""
+          data-form-input
         ></textarea>
 
-        <button class="flex items-center gap-2 p-4  rounded-xl" type="submit" disabled data-form-btn>
+        <button class="flex items-center p-4 gap-2 bg-gradient-to-br from-yellow-300/20 to-transparent bg-neutral-900 rounded-xl text-[#ffdb70] hover:scale-90 transition ease" type="submit">
           <ion-icon name="paper-plane"></ion-icon>
           <span>Send Message</span>
         </button>
