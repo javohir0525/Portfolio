@@ -1,0 +1,305 @@
+<template>
+  <article class="text-white px-8 tracking-wide" data-page="about">
+    <header>
+      <h2 class="text-4xl font-bold mb-4 tracking-wide">About me</h2>
+      <div class="w-12 h-1.5 rounded-full bg-[#ffdb70] mb-4"></div>
+    </header>
+
+    <section class="opacity-70 ml-3 mb-9">
+      <p class="text-base mb-4">
+        I'm Creative Director and UI/UX Designer from Sydney, Australia, working
+        in web development and print media. I enjoy turning complex problems
+        into simple, beautiful and intuitive designs.
+      </p>
+      <p>
+        My job is to build your website so that it is functional and
+        user-friendly but at the same time attractive. Moreover, I add personal
+        touch to your product and make sure that is eye-catching and easy to
+        use. My aim is to bring across your message and identity in the most
+        creative way. I created web design for many famous brand companies.
+      </p>
+    </section>
+
+    <section class="flex flex-col">
+      <h3 class="text-2xl font-bold mb-5 tracking-wide">What I'm doing</h3>
+
+      <ul class="grid grid-cols-2 gap-6 items-center mb-10">
+        <!-- 1 -->
+        <li class="flex p-6 bg-[#292929] rounded-xl scale-100 shadow-2xl hover:scale-95 transition bg-gradient-to-br from-neutral-700/100 via-gray-700/0 via-50%">
+          <div class="mt-2">
+            <img
+              src="https://i.postimg.cc/4389jZkP/icon-design.png"
+              alt="icon"
+              width="60"
+            />
+          </div>
+
+          <div class="ml-4">
+            <h4 class="text-xl font-medium mb-2">Web Design</h4>
+            <p class="service-item-text">
+              The most modern and high-quality design made at a professional
+              level.
+            </p>
+          </div>
+        </li>
+        <!-- 2 -->
+        <li class="flex p-6 bg-[#292929] rounded-xl scale-100 shadow-2xl hover:scale-95 transition bg-gradient-to-br from-neutral-700/100 via-gray-700/0 via-50%">
+          <div class="mt-2">
+            <img
+              src="https://i.postimg.cc/ZqgqrqzG/icon-dev.png"
+              alt="icon"
+              width="60"
+            />
+          </div>
+
+          <div class="ml-4">
+            <h4 class="text-xl font-medium mb-2">Web development</h4>
+            <p class="service-item-text">
+              High-quality development of sites at the professional level.
+            </p>
+          </div>
+        </li>
+        <!-- 3 -->
+        <li class="flex p-6 bg-[#292929] rounded-xl scale-100 shadow-2xl hover:scale-95 transition bg-gradient-to-br from-neutral-700/100 via-gray-700/0 via-50%">
+          <div class="mt-2">
+            <img
+              src="https://i.postimg.cc/xjLdzYxZ/icon-app.png"
+              alt="icon"
+              width="60"
+            />
+          </div>
+
+          <div class="ml-4">
+            <h4 class="text-xl font-medium mb-2">Mobile apps</h4>
+            <p class="service-item-text">
+              Professional development of applications for iOS and Android.
+            </p>
+          </div>
+        </li>
+        <!-- 4 -->
+        <li class="flex p-6 bg-[#292929] rounded-xl scale-100 shadow-2xl hover:scale-95 transition bg-gradient-to-br from-neutral-700/100 via-gray-700/0 via-50%">
+          <div class="mt-2">
+            <img
+              src="https://i.postimg.cc/0NL8zHpx/icon-photo.png"
+              alt="icon"
+              width="60"
+            />
+          </div>
+
+          <div class="ml-4">
+            <h4 class="text-xl font-medium mb-2">Photography</h4>
+            <p class="service-item-text">
+              I make high-quality photos of any category at a professional
+              level.
+            </p>
+          </div>
+        </li>
+      </ul>
+    </section>
+
+    <section class="testimonials">
+      <h3 class="text-2xl font-bold mb-5 tracking-wide">Testimonials</h3>
+
+      <ul class="overflow-x-auto space-x-6 flex mb-6">
+        <li class="testimonials-item">
+          <div class="content-card" data-testimonials-item>
+            <figure class="testimonials-avatar-box">
+              <img
+                src="https://i.postimg.cc/zGDHfn3G/avatar-1.png"
+                alt="avatar"
+                data-testimonials-avatar
+                width="60"
+              />
+            </figure>
+
+            <h4 class="h4 testimonials-item-title" data-testimonials-title>
+              Daniel Lewis
+            </h4>
+
+            <div class="testimonials-text" data-testimonials-text>
+              <p>
+                Richard was hired to create a corporate identity. It's modern,
+                clean and with a beautiful design that got a lot of praises from
+                colleagues and visitors. We were very pleased with the work
+                done. He has a lot of experience and is very concerned about the
+                needs of client.
+              </p>
+            </div>
+          </div>
+        </li>
+
+        <li class="testimonials-item">
+          <div class="content-card" data-testimonials-item>
+            <figure class="testimonials-avatar-box">
+              <img
+                src="https://i.postimg.cc/DwY0yHtx/avatar-2.png"
+                alt="avatar"
+                data-testimonials-avatar
+                width="60"
+              />
+            </figure>
+
+            <h4 class="h4 testimonials-item-title" data-testimonials-title>
+              Jessica Miller
+            </h4>
+
+            <div class="testimonials-text" data-testimonials-text>
+              <p>
+                Working with Richard has been an absolute pleasure. I was
+                impressed with his attention to detail, his web design skills
+                and his professional approach to our timelines and processes.
+              </p>
+            </div>
+          </div>
+        </li>
+
+        <li class="testimonials-item">
+          <div class="content-card" data-testimonials-item>
+            <figure class="testimonials-avatar-box">
+              <img
+                src="https://i.postimg.cc/fRFWhX9F/avatar-3.png"
+                alt="avatar"
+                data-testimonials-avatar
+                width="60"
+              />
+            </figure>
+
+            <h4 class="h4 testimonials-item-title" data-testimonials-title>
+              Emily Evans
+            </h4>
+
+            <div class="testimonials-text" data-testimonials-text>
+              <p>
+                I couldn't be happier with the website that Richard created for
+                us. His attention to detail and creativity is unmatched. Our
+                clients frequently compliment the design, and it has
+                significantly improved our brand image.
+              </p>
+            </div>
+          </div>
+        </li>
+
+        <li class="testimonials-item">
+          <div class="content-card" data-testimonials-item>
+            <figure class="testimonials-avatar-box">
+              <img
+                src="https://i.postimg.cc/zXv1Xv81/avatar-4.png"
+                alt="avatar"
+                data-testimonials-avatar
+                width="60"
+              />
+            </figure>
+
+            <h4 class="h4 testimonials-item-title" data-testimonials-title>
+              Henry Williams
+            </h4>
+
+            <div class="testimonials-text" data-testimonials-text>
+              <p>
+                I was overwhelmed with the thought of redesigning my online
+                store, but Richard made the process seamless. The site is not
+                only visually appealing but also optimized for conversions. I've
+                seen a 50% increase in traffic since the launch!
+              </p>
+            </div>
+          </div>
+        </li>
+      </ul>
+    </section>
+
+    <div class="modal-container" data-modal-container>
+      <div class="overlay" data-overlay></div>
+
+      <!-- <section class="testimonials-modal">
+        <button class="modal-close-btn" data-modal-close-btn>
+          <ion-icon name="close-outline"></ion-icon>
+        </button>
+
+        <div class="modal-img-wrapper">
+          <figure class="modal-avatar-box">
+            <img
+              src="https://i.postimg.cc/zGDHfn3G/avatar-1.png"
+              alt="Daniel Lewis"
+              width="80"
+              data-modal-img
+            />
+          </figure>
+
+          <img
+            src="https://i.postimg.cc/mZ00RwX7/icon-quote.png"
+            alt="quote icon"
+          />
+        </div>
+
+        <div class="modal-content">
+          <h4 class="h3 modal-title" data-modal-title>Daniel Lewis</h4>
+          <time datetime="2023-06-14">14 June, 2023</time>
+
+          <div class="modal-text" data-modal-text>
+            <p>
+              Richard was hired to create a corporate identity. It's modern,
+              clean and with a beautiful design that got a lot of praises from
+              colleagues and visitors. We were very pleased with the work done.
+              He has a lot of experience and is very concerned about the needs
+              of client.
+            </p>
+          </div>
+        </div>
+      </section> -->
+    </div>
+
+    <section class="mb-15">
+      <h3 class="text-2xl font-bold mb-5 tracking-wide">Clients</h3>
+
+      <ul class="flex">
+        <li class="clients-item">
+          <a href="#"
+            ><img
+              src="https://i.postimg.cc/YqfKyG66/logo-1-color.png"
+              alt="logo"
+          /></a>
+        </li>
+
+        <li class="clients-item">
+          <a href="#"
+            ><img
+              src="https://i.postimg.cc/fWm6JtgG/logo-2-color.png"
+              alt="logo"
+          /></a>
+        </li>
+
+        <li class="clients-item">
+          <a href="#"
+            ><img
+              src="https://i.postimg.cc/Bb07xpwd/logo-3-color.png"
+              alt="logo"
+          /></a>
+        </li>
+
+        <li class="clients-item">
+          <a href="#"
+            ><img
+              src="https://i.postimg.cc/hv1yMmkh/logo-4-color.png"
+              alt="logo"
+          /></a>
+        </li>
+
+        <li class="clients-item">
+          <a href="#"
+            ><img
+              src="https://i.postimg.cc/ry1P86Dc/logo-5-color.png"
+              alt="logo"
+          /></a>
+        </li>
+
+        <li class="clients-item">
+          <a href="#"
+            ><img
+              src="https://i.postimg.cc/SsWDN8NV/logo-6-color.png"
+              alt="logo"
+          /></a>
+        </li>
+      </ul>
+    </section>
+  </article>
+</template>
