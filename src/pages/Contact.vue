@@ -13,6 +13,7 @@
           height="350"
           loading="lazy"
           class="rounded-2xl mb-5"
+          style="filter:grayscale(1) invert(1)"
         ></iframe>
       </figure>
     </section>
@@ -48,7 +49,7 @@
           data-form-input
         ></textarea>
 
-        <button class="flex items-center p-4 gap-2 bg-gradient-to-br from-yellow-300/20 to-transparent bg-neutral-900 rounded-xl text-[#ffdb70] hover:scale-90 transition ease" type="submit">
+        <button class="flex items-center cursor-pointer p-4 gap-2 bg-gradient-to-br from-yellow-300/20 to-transparent bg-neutral-900 rounded-xl text-[#ffdb70] hover:scale-90 transition ease" type="submit">
           <ion-icon name="paper-plane"></ion-icon>
           <span>Send Message</span>
         </button>
