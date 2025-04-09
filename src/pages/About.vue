@@ -25,7 +25,9 @@
 
       <ul class="grid grid-cols-2 gap-6 items-center mb-10">
         <!-- 1 -->
-        <li class="flex p-6 bg-[#292929] rounded-xl scale-100 shadow-2xl hover:scale-95 transition bg-gradient-to-br from-neutral-700/100 via-gray-700/0 via-50%">
+        <li
+          class="flex p-6 bg-[#292929] rounded-xl scale-100 shadow-2xl hover:scale-95 transition bg-gradient-to-br from-neutral-700/100 via-gray-700/0 via-50%"
+        >
           <div class="mt-2">
             <img
               src="https://i.postimg.cc/4389jZkP/icon-design.png"
@@ -43,7 +45,9 @@
           </div>
         </li>
         <!-- 2 -->
-        <li class="flex p-6 bg-[#292929] rounded-xl scale-100 shadow-2xl hover:scale-95 transition bg-gradient-to-br from-neutral-700/100 via-gray-700/0 via-50%">
+        <li
+          class="flex p-6 bg-[#292929] rounded-xl scale-100 shadow-2xl hover:scale-95 transition bg-gradient-to-br from-neutral-700/100 via-gray-700/0 via-50%"
+        >
           <div class="mt-2">
             <img
               src="https://i.postimg.cc/ZqgqrqzG/icon-dev.png"
@@ -60,7 +64,9 @@
           </div>
         </li>
         <!-- 3 -->
-        <li class="flex p-6 bg-[#292929] rounded-xl scale-100 shadow-2xl hover:scale-95 transition bg-gradient-to-br from-neutral-700/100 via-gray-700/0 via-50%">
+        <li
+          class="flex p-6 bg-[#292929] rounded-xl scale-100 shadow-2xl hover:scale-95 transition bg-gradient-to-br from-neutral-700/100 via-gray-700/0 via-50%"
+        >
           <div class="mt-2">
             <img
               src="https://i.postimg.cc/xjLdzYxZ/icon-app.png"
@@ -77,7 +83,9 @@
           </div>
         </li>
         <!-- 4 -->
-        <li class="flex p-6 bg-[#292929] rounded-xl scale-100 shadow-2xl hover:scale-95 transition bg-gradient-to-br from-neutral-700/100 via-gray-700/0 via-50%">
+        <li
+          class="flex p-6 bg-[#292929] rounded-xl scale-100 shadow-2xl hover:scale-95 transition bg-gradient-to-br from-neutral-700/100 via-gray-700/0 via-50%"
+        >
           <div class="mt-2">
             <img
               src="https://i.postimg.cc/0NL8zHpx/icon-photo.png"
@@ -97,26 +105,32 @@
       </ul>
     </section>
 
-    <section class="testimonials">
+    <section class="">
       <h3 class="text-2xl font-bold mb-5 tracking-wide">Testimonials</h3>
-
-      <ul class="overflow-x-auto space-x-6 flex mb-6">
-        <li class="testimonials-item">
-          <div class="content-card" data-testimonials-item>
-            <figure class="testimonials-avatar-box">
+      <!-- <ul class="space-x-5 w-full flex gap-3 mb-6">
+        <li
+          class=""
+        >
+          <div class="">
+            <figure
+              class=""
+            >
               <img
                 src="https://i.postimg.cc/zGDHfn3G/avatar-1.png"
                 alt="avatar"
                 data-testimonials-avatar
-                width="60"
+                width="70"
               />
             </figure>
 
-            <h4 class="h4 testimonials-item-title" data-testimonials-title>
+            <h4 class="text-xl font-bold ml-20 " data-testimonials-title>
               Daniel Lewis
             </h4>
 
-            <div class="testimonials-text" data-testimonials-text>
+            <div
+              class="line-clamp-3 font-light text-[rgb(214,214,214)]"
+              data-testimonials-text
+            >
               <p>
                 Richard was hired to create a corporate identity. It's modern,
                 clean and with a beautiful design that got a lot of praises from
@@ -128,22 +142,27 @@
           </div>
         </li>
 
-        <li class="testimonials-item">
-          <div class="content-card" data-testimonials-item>
-            <figure class="testimonials-avatar-box">
+        <li
+          class=""
+        >
+          <div class="" data-testimonials-item>
+            <figure class="">
               <img
                 src="https://i.postimg.cc/DwY0yHtx/avatar-2.png"
                 alt="avatar"
                 data-testimonials-avatar
-                width="60"
+                width="70"
               />
             </figure>
 
-            <h4 class="h4 testimonials-item-title" data-testimonials-title>
+            <h4 class="text-xl font-bold ml-20" data-testimonials-title>
               Jessica Miller
             </h4>
 
-            <div class="testimonials-text" data-testimonials-text>
+            <div
+              class="line-clamp-3 font-light text-[rgb(214,214,214)]"
+              data-testimonials-text
+            >
               <p>
                 Working with Richard has been an absolute pleasure. I was
                 impressed with his attention to detail, his web design skills
@@ -153,22 +172,27 @@
           </div>
         </li>
 
-        <li class="testimonials-item">
-          <div class="content-card" data-testimonials-item>
-            <figure class="testimonials-avatar-box">
+        <li
+          class=""
+        >
+          <div class="" data-testimonials-item>
+            <figure class="">
               <img
                 src="https://i.postimg.cc/fRFWhX9F/avatar-3.png"
                 alt="avatar"
                 data-testimonials-avatar
-                width="60"
+                width="70"
               />
             </figure>
 
-            <h4 class="h4 testimonials-item-title" data-testimonials-title>
+            <h4 class="text-xl font-bold ml-20" data-testimonials-title>
               Emily Evans
             </h4>
 
-            <div class="testimonials-text" data-testimonials-text>
+            <div
+              class="line-clamp-3 font-light text-[rgb(214,214,214)]"
+              data-testimonials-text
+            >
               <p>
                 I couldn't be happier with the website that Richard created for
                 us. His attention to detail and creativity is unmatched. Our
@@ -179,22 +203,27 @@
           </div>
         </li>
 
-        <li class="testimonials-item">
-          <div class="content-card" data-testimonials-item>
-            <figure class="testimonials-avatar-box">
+        <li
+          class=""
+        >
+          <div class="" data-testimonials-item>
+            <figure class="">
               <img
                 src="https://i.postimg.cc/zXv1Xv81/avatar-4.png"
                 alt="avatar"
                 data-testimonials-avatar
-                width="60"
+                width="70"
               />
             </figure>
 
-            <h4 class="h4 testimonials-item-title" data-testimonials-title>
+            <h4 class="text-xl font-bold ml-20" data-testimonials-title>
               Henry Williams
             </h4>
 
-            <div class="testimonials-text" data-testimonials-text>
+            <div
+              class="line-clamp-3 font-light text-[rgb(214,214,214)]"
+              data-testimonials-text
+            >
               <p>
                 I was overwhelmed with the thought of redesigning my online
                 store, but Richard made the process seamless. The site is not
@@ -204,7 +233,7 @@
             </div>
           </div>
         </li>
-      </ul>
+      </ul> -->
     </section>
 
     <div class="modal-container" data-modal-container>
@@ -249,54 +278,60 @@
     </div>
 
     <section class="mb-15">
-      <h3 class="text-2xl font-bold mb-5 tracking-wide">Clients</h3>
+      <h3 class="text-3xl font-bold py-5">Clients</h3>
 
-      <ul class="flex">
-        <li class="clients-item">
+      <ul class="flex ">
+        <li class="">
           <a href="#"
             ><img
               src="https://i.postimg.cc/YqfKyG66/logo-1-color.png"
               alt="logo"
+              class="invert brightness-0 hover:invert-0 hover:brightness-100 transition-all duration-300"
           /></a>
         </li>
 
-        <li class="clients-item">
+        <li class="">
           <a href="#"
             ><img
               src="https://i.postimg.cc/fWm6JtgG/logo-2-color.png"
               alt="logo"
+              class="invert brightness-0 hover:invert-0 hover:brightness-100 transition-all duration-300"
           /></a>
         </li>
 
-        <li class="clients-item">
+        <li class="">
           <a href="#"
             ><img
               src="https://i.postimg.cc/Bb07xpwd/logo-3-color.png"
               alt="logo"
+              class="invert brightness-0 hover:invert-0 hover:brightness-100 transition-all duration-300"
           /></a>
         </li>
 
-        <li class="clients-item">
+        <li class="">
           <a href="#"
             ><img
               src="https://i.postimg.cc/hv1yMmkh/logo-4-color.png"
               alt="logo"
+              class="invert brightness-0 hover:invert-0 hover:brightness-100 transition-all duration-300"
           /></a>
         </li>
 
-        <li class="clients-item">
+        <li class="">
           <a href="#"
             ><img
               src="https://i.postimg.cc/ry1P86Dc/logo-5-color.png"
               alt="logo"
+              class="invert brightness-0 hover:invert-0 hover:brightness-100 transition-all duration-300"
           /></a>
         </li>
 
-        <li class="clients-item">
+        <li class="">
           <a href="#"
             ><img
               src="https://i.postimg.cc/SsWDN8NV/logo-6-color.png"
               alt="logo"
+              class="invert brightness-0 hover:invert-0 hover:brightness-100 transition-all duration-300"
           /></a>
         </li>
       </ul>

@@ -1,5 +1,5 @@
 <template>
-  <article class="text-white tracking-wide p-8 flex" data-page="contact">
+  <article class="text-white tracking-wide p-8" data-page="contact">
     <header>
       <h2 class="text-3xl font-bold mb-4">Contact</h2>
       <div class="w-12 h-1.5 rounded-full bg-[#ffdb70] mb-4"></div>

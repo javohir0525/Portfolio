@@ -6,7 +6,7 @@
     </header>
 
     <section class="">
-      <ul class="flex gap-4">
+      <ul class="flex gap-4 mb-8">
         <li class="hover:text-gray-300 transition active:text-[#ffdb70]">
           <button class="cursor-pointer" data-filter-btn>All</button>
         </li>
@@ -48,9 +48,9 @@
         <li class="rounded-lg" data-filter-item data-category="web development">
           <a href="#!" class="">
             <figure>
-              <div class="project-item-icon-box">
-                <ion-icon name="eye-outline"></ion-icon>
-              </div>
+              <!-- <div class="relative">
+                <ion-icon class="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 scale-95 hover:scale-100 transition-transform duration-300 z-10" name="eye-outline"></ion-icon>
+              </div> -->
 
               <img
                 src="https://i.postimg.cc/qRHpHMyd/project-1.jpg"
@@ -74,9 +74,9 @@
         >
           <a href="#">
             <figure class="project-img">
-              <div class="project-item-icon-box">
+              <!-- <div class="project-item-icon-box">
                 <ion-icon name="eye-outline"></ion-icon>
-              </div>
+              </div> -->
 
               <img
                 src="https://i.postimg.cc/bNrcM2Wt/project-2.png"
@@ -100,9 +100,9 @@
         >
           <a href="#">
             <figure class="project-img">
-              <div class="project-item-icon-box">
+              <!-- <div class="project-item-icon-box">
                 <ion-icon name="eye-outline"></ion-icon>
-              </div>
+              </div> -->
 
               <img
                 src="https://i.postimg.cc/jSJVqYsq/project-3.jpg"
@@ -126,9 +126,9 @@
         >
           <a href="#">
             <figure class="project-img">
-              <div class="project-item-icon-box">
+              <!-- <div class="project-item-icon-box">
                 <ion-icon name="eye-outline"></ion-icon>
-              </div>
+              </div> -->
 
               <img
                 src="https://i.postimg.cc/dtpXxNGb/project-4.png"
@@ -152,9 +152,9 @@
         >
           <a href="#">
             <figure class="project-img">
-              <div class="project-item-icon-box">
+              <!-- <div class="project-item-icon-box">
                 <ion-icon name="eye-outline"></ion-icon>
-              </div>
+              </div> -->
 
               <img
                 src="https://i.postimg.cc/43T0JKLw/project-5.png"
@@ -178,9 +178,9 @@
         >
           <a href="#">
             <figure class="project-img">
-              <div class="project-item-icon-box">
+              <!-- <div class="project-item-icon-box">
                 <ion-icon name="eye-outline"></ion-icon>
-              </div>
+              </div> -->
 
               <img
                 src="https://i.postimg.cc/qR1DX1kZ/project-6.png"
@@ -204,9 +204,9 @@
         >
           <a href="#">
             <figure class="project-img">
-              <div class="project-item-icon-box">
+              <!-- <div class="project-item-icon-box">
                 <ion-icon name="eye-outline"></ion-icon>
-              </div>
+              </div> -->
 
               <img
                 src="https://i.postimg.cc/Kj4q9tjc/project-7.png"
@@ -230,9 +230,9 @@
         >
           <a href="#">
             <figure class="project-img">
-              <div class="project-item-icon-box">
+              <!-- <div class="project-item-icon-box">
                 <ion-icon name="eye-outline"></ion-icon>
-              </div>
+              </div> -->
 
               <img
                 src="https://i.postimg.cc/rw2j4B1w/project-8.jpg"
@@ -256,9 +256,9 @@
         >
           <a href="#">
             <figure class="project-img">
-              <div class="project-item-icon-box">
+              <!-- <div class="project-item-icon-box">
                 <ion-icon name="eye-outline"></ion-icon>
-              </div>
+              </div> -->
 
               <img
                 src="https://i.postimg.cc/7LxNsSQv/project-9.png"
