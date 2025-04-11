@@ -1,18 +1,16 @@
 <template>
   <main class="text-center text-white">
     <aside class="flex flex-col w-fit">
-      <div class="p-3">
-        <!-- <figure class="bg-[#383838] rounded-"> -->
+      <div>
           <img
             src="/public/image.png"
             alt="avatar"
-            class="mb-4 rounded-full object-cover relative -right-12"
+            class="mb-4 rounded-full object-cover relative mx-auto size-20"
             width="100"
           />
-        <!-- </figure> -->
 
         <div class="flex flex-col items-center">
-          <h1 class="text-2xl w-[200px] font-medium" title="Javohir Shuxratov">Javohir Shuxratov</h1>
+          <h1 class="text-2xl font-medium" title="Javohir Shuxratov">Javohir Shuxratov</h1>
           <p class="text-xs py-1 px-3 bg-[#383838] rounded-lg mt-4">Web Developer, UI/UX</p>
           <hr class="border border-[#2b2b2c] w-[170px] my-4 mt-7">
         </div>
