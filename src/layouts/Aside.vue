@@ -29,7 +29,7 @@
         <ul class="flex flex-col gap-7">
           <!-- 1 -->
           <li class="flex items-center gap-3">
-            <div class="bg-[#2b2b2c] p-3 rounded-lg">
+            <div class="bg-[#2b2b2c] px-3 py-2 bg-[linear-gradient(to_bottom_right,_#3f3f40_50%,_#303030_0%)] rounded-lg">
               <ion-icon class="text-[#ffdb70]" name="mail-outline"></ion-icon>
             </div>
 
@@ -43,7 +43,7 @@
           </li>
           <!-- 2 -->
           <li class="flex items-center gap-3">
-            <div class="bg-[#2b2b2c] p-3 rounded-lg">
+            <div class="bg-[#2b2b2c] px-3 py-2 bg-[linear-gradient(to_bottom_right,_#3f3f40_50%,_#303030_0%)] rounded-lg">
               <ion-icon class="text-[#ffdb70]" name="phone-portrait-outline"></ion-icon>
             </div>
 
@@ -57,7 +57,7 @@
           </li>
           <!-- 3 -->
           <li class="flex flex-center gap-3">
-            <div class="bg-[#2b2b2c] p-3 rounded-lg">
+            <div class="bg-[#2b2b2c] px-3 py-2 bg-[linear-gradient(to_bottom_right,_#3f3f40_50%,_#303030_0%)] rounded-lg">
               <ion-icon class="text-[#ffdb70]" name="calendar-outline"></ion-icon>
             </div>
 
@@ -69,7 +69,7 @@
           </li>
           <!-- 4 -->
           <li class="flex items-center gap-3">
-            <div class="bg-[#2b2b2c] shadow-xl p-3 rounded-lg">
+            <div class="bg-[#2b2b2c] shadow-xl px-3 py-2 bg-[linear-gradient(to_bottom_right,_#3f3f40_50%,_#303030_0%)] rounded-lg">
               <ion-icon class="text-[#ffdb70]" name="location-outline"></ion-icon>
             </div>
 

@@ -46,23 +46,23 @@
 
       <ul class="grid grid-cols-3 gap-7">
         <li class="rounded-lg" data-filter-item data-category="web development">
-          <a href="#!" class="">
-            <figure>
-              <!-- <div class="relative">
-                <ion-icon class="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 scale-95 hover:scale-100 transition-transform duration-300 z-10" name="eye-outline"></ion-icon>
-              </div> -->
+          <a href="#!" class="flex flex-col gap-2">
+            <figure class="group">
+              <div class="relative overflow-hidden rounded-2xl group transition-all">
+                <ion-icon class="text-[rgb(255,219,112)] absolute content-center top-1/2 left-1/2 bg-[linear-gradient(to_bottom_right,_#3f3f40_3%,_#303030_97%)] rounded-xl flex items-center justify-center transition-opacity duration-300 opacity-0  group-hover:opacity-100 z-10" name="eye-outline"></ion-icon>
+              </div>
 
               <img
                 src="https://i.postimg.cc/qRHpHMyd/project-1.jpg"
                 alt="finance"
-                class="rounded-2xl hover:animate-pulse transition-all"
+                class="rounded-xl group-hover:scale-105 group-hover:opacity-45 transition-transform duration-300"
                 loading="lazy"
                 width="259"
               />
             </figure>
             <div class="p-1">
-              <h3 class="project-title">Finance</h3>
-              <p class="opacity-60">Web Development</p>
+              <h3 class="font-semibold text-white  text-justify">Finance</h3>
+              <p class="opacity-60 font-light">Web Development</p>
             </div>
           </a>
         </li>
@@ -72,23 +72,23 @@
           data-filter-item
           data-category="web development"
         >
-          <a href="#">
-            <figure class="project-img">
-              <!-- <div class="project-item-icon-box">
-                <ion-icon name="eye-outline"></ion-icon>
-              </div> -->
+          <a href="#" class="flex flex-col gap-2">
+            <figure class="group">
+              <div class="relative overflow-hidden rounded-2xl group transition-all">
+                <ion-icon class="text-[rgb(255,219,112)] absolute content-center top-1/2 left-1/2 bg-[linear-gradient(to_bottom_right,_#3f3f40_3%,_#303030_97%)] rounded-xl flex items-center justify-center transition-opacity duration-300 opacity-0  group-hover:opacity-100 z-10" name="eye-outline"></ion-icon>
+              </div>
 
               <img
                 src="https://i.postimg.cc/bNrcM2Wt/project-2.png"
                 alt="orizon"
                 loading="lazy"
-                class="rounded-2xl hover:animate-pulse transition-all"
+                class="rounded-xl group-hover:scale-105 group-hover:opacity-45 transition-transform duration-300"
                 width="259"
               />
             </figure>
             <div class="p-1">
-              <h3 class="project-title">Orizon</h3>
-              <p class="opacity-60">Web Development</p>
+              <h3 class="font-semibold text-white  text-justify">Orizon</h3>
+              <p class="opacity-60 font-light">Web Development</p>
             </div>
           </a>
         </li>
@@ -98,22 +98,22 @@
           data-filter-item
           data-category="web design"
         >
-          <a href="#">
-            <figure class="project-img">
-              <!-- <div class="project-item-icon-box">
-                <ion-icon name="eye-outline"></ion-icon>
-              </div> -->
+          <a href="#" class="flex flex-col gap-2">
+            <figure class="group">
+              <div class="relative overflow-hidden rounded-2xl group transition-all">
+                <ion-icon class="text-[rgb(255,219,112)] absolute content-center top-1/2 left-1/2 bg-[linear-gradient(to_bottom_right,_#3f3f40_3%,_#303030_97%)] rounded-xl flex items-center justify-center transition-opacity duration-300 opacity-0  group-hover:opacity-100 z-10" name="eye-outline"></ion-icon>
+              </div>
 
               <img
                 src="https://i.postimg.cc/jSJVqYsq/project-3.jpg"
                 alt="fundo"
                 loading="lazy"
-                class="rounded-2xl hover:animate-pulse transition-all"
+                class="rounded-xl group-hover:scale-105 group-hover:opacity-45 transition-transform duration-300"
                 width="259"
               />
             </figure>
             <div class="p-1">
-              <h3 class="project-title">Fundo</h3>
+              <h3 class="font-semibold text-white  text-justify">Fundo</h3>
               <p class="opacity-60">Web Design</p>
             </div>
           </a>
@@ -124,23 +124,23 @@
           data-filter-item
           data-category="applications"
         >
-          <a href="#">
-            <figure class="project-img">
-              <!-- <div class="project-item-icon-box">
-                <ion-icon name="eye-outline"></ion-icon>
-              </div> -->
+          <a href="#" class="flex flex-col gap-2">
+            <figure class="group">
+              <div class="relative overflow-hidden rounded-2xl group transition-all">
+                <ion-icon class="text-[rgb(255,219,112)] absolute content-center top-1/2 left-1/2 bg-[linear-gradient(to_bottom_right,_#3f3f40_3%,_#303030_97%)] rounded-xl flex items-center justify-center transition-opacity duration-300 opacity-0  group-hover:opacity-100 z-10" name="eye-outline"></ion-icon>
+              </div>
 
               <img
                 src="https://i.postimg.cc/dtpXxNGb/project-4.png"
                 alt="brawlhalla"
                 loading="lazy"
-                class="rounded-2xl hover:animate-pulse transition-all"
+                class="rounded-xl group-hover:scale-105 group-hover:opacity-45 transition-transform duration-300"
                 width="259"
               />
             </figure>
             <div class="p-1">
-              <h3 class="project-title">Brawlhalla</h3>
-              <p class="opacity-60">Applications</p>
+              <h3 class="font-semibold text-white  text-justify">Brawlhalla</h3>
+              <p class="opacity-60 font-light">Applications</p>
             </div>
           </a>
         </li>
@@ -150,23 +150,23 @@
           data-filter-item
           data-category="web design"
         >
-          <a href="#">
-            <figure class="project-img">
-              <!-- <div class="project-item-icon-box">
-                <ion-icon name="eye-outline"></ion-icon>
-              </div> -->
+          <a href="#" class="flex flex-col gap-2">
+            <figure class="group">
+              <div class="relative overflow-hidden rounded-2xl group transition-all">
+                <ion-icon class="text-[rgb(255,219,112)] absolute content-center top-1/2 left-1/2 bg-[linear-gradient(to_bottom_right,_#3f3f40_3%,_#303030_97%)] rounded-xl flex items-center justify-center transition-opacity duration-300 opacity-0  group-hover:opacity-100 z-10" name="eye-outline"></ion-icon>
+              </div>
 
               <img
                 src="https://i.postimg.cc/43T0JKLw/project-5.png"
                 alt="dsm."
                 loading="lazy"
-                class="rounded-2xl hover:animate-pulse transition-all"
+                class="rounded-xl group-hover:scale-105 group-hover:opacity-45 transition-transform duration-300"
                 width="259"
               />
             </figure>
             <div class="p-1">
-              <h3 class="project-title">DSM.</h3>
-              <p class="opacity-60">Web Design</p>
+              <h3 class="font-semibold text-white  text-justify">DSM.</h3>
+              <p class="opacity-60 font-light">Web Design</p>
             </div>
           </a>
         </li>
@@ -176,23 +176,23 @@
           data-filter-item
           data-category="web design"
         >
-          <a href="#">
-            <figure class="project-img">
-              <!-- <div class="project-item-icon-box">
-                <ion-icon name="eye-outline"></ion-icon>
-              </div> -->
+          <a href="#" class="flex flex-col gap-2">
+            <figure class="group">
+              <div class="relative overflow-hidden rounded-2xl group transition-all">
+                <ion-icon class="text-[rgb(255,219,112)] absolute content-center top-1/2 left-1/2 bg-[linear-gradient(to_bottom_right,_#3f3f40_3%,_#303030_97%)] rounded-xl flex items-center justify-center transition-opacity duration-300 opacity-0  group-hover:opacity-100 z-10" name="eye-outline"></ion-icon>
+              </div>
 
               <img
                 src="https://i.postimg.cc/qR1DX1kZ/project-6.png"
                 alt="metaspark"
                 loading="lazy"
-                class="rounded-2xl hover:animate-pulse transition-all"
+                class="rounded-xl group-hover:scale-105 group-hover:opacity-45 transition-transform duration-300"
                 width="259"
               />
             </figure>
             <div class="p-1">
-              <h3 class="project-title">Metaspark</h3>
-              <p class="opacity-60">Web Design</p>
+              <h3 class="font-semibold text-white  text-justify">Metaspark</h3>
+              <p class="opacity-60 font-light">Web Design</p>
             </div>
           </a>
         </li>
@@ -202,23 +202,23 @@
           data-filter-item
           data-category="web development"
         >
-          <a href="#">
-            <figure class="project-img">
-              <!-- <div class="project-item-icon-box">
-                <ion-icon name="eye-outline"></ion-icon>
-              </div> -->
+          <a href="#" class="flex flex-col gap-2">
+            <figure class="group">
+              <div class="relative overflow-hidden rounded-2xl group transition-all">
+                <ion-icon class="text-[rgb(255,219,112)] absolute content-center top-1/2 left-1/2 bg-[linear-gradient(to_bottom_right,_#3f3f40_3%,_#303030_97%)] rounded-xl flex items-center justify-center transition-opacity duration-300 opacity-0  group-hover:opacity-100 z-10" name="eye-outline"></ion-icon>
+              </div>
 
               <img
                 src="https://i.postimg.cc/Kj4q9tjc/project-7.png"
                 alt="summary"
                 loading="lazy"
-                class="rounded-2xl hover:animate-pulse transition-all"
+                class="rounded-xl group-hover:scale-105 group-hover:opacity-45 transition-transform duration-300"
                 width="259"
               />
             </figure>
             <div class="p-1">
-              <h3 class="project-title">Summary</h3>
-              <p class="opacity-60">Web Development</p>
+              <h3 class="font-semibold text-white  text-justify">Summary</h3>
+              <p class="opacity-60 font-light">Web Development</p>
             </div>
           </a>
         </li>
@@ -228,23 +228,23 @@
           data-filter-item
           data-category="applications"
         >
-          <a href="#">
-            <figure class="project-img">
-              <!-- <div class="project-item-icon-box">
-                <ion-icon name="eye-outline"></ion-icon>
-              </div> -->
+          <a href="#" class="flex flex-col gap-2">
+            <figure class="group">
+              <div class="relative overflow-hidden rounded-2xl group transition-all">
+                <ion-icon class="text-[rgb(255,219,112)] absolute content-center top-1/2 left-1/2 bg-[linear-gradient(to_bottom_right,_#3f3f40_3%,_#303030_97%)] rounded-xl flex items-center justify-center transition-opacity duration-300 opacity-0  group-hover:opacity-100 z-10" name="eye-outline"></ion-icon>
+              </div>
 
               <img
                 src="https://i.postimg.cc/rw2j4B1w/project-8.jpg"
                 alt="task manager"
                 loading="lazy"
-                class="rounded-2xl hover:animate-pulse transition-all"
+                class="rounded-xl group-hover:scale-105 group-hover:opacity-45 transition-transform duration-300"
                 width="259"
               />
             </figure>
             <div class="p-1">
-              <h3 class="project-title">Task Manager</h3>
-              <p class="opacity-60">Applications</p>
+              <h3 class="font-semibold text-white  text-justify">Task Manager</h3>
+              <p class="opacity-60 font-light">Applications</p>
             </div>
           </a>
         </li>
@@ -254,23 +254,23 @@
           data-filter-item
           data-category="web development"
         >
-          <a href="#">
-            <figure class="project-img">
-              <!-- <div class="project-item-icon-box">
-                <ion-icon name="eye-outline"></ion-icon>
-              </div> -->
+          <a href="#" class="flex flex-col gap-2">
+            <figure class="group">
+              <div class="relative overflow-hidden rounded-2xl group transition-all">
+                <ion-icon class="text-[rgb(255,219,112)] absolute content-center top-1/2 left-1/2 bg-[linear-gradient(to_bottom_right,_#3f3f40_3%,_#303030_97%)] rounded-xl flex items-center justify-center transition-opacity duration-300 opacity-0  group-hover:opacity-100 z-10" name="eye-outline"></ion-icon>
+              </div>
 
               <img
                 src="https://i.postimg.cc/7LxNsSQv/project-9.png"
                 alt="arrival"
                 loading="lazy"
-                class="rounded-2xl hover:animate-pulse transition-all"
+                class="rounded-xl group-hover:scale-105 group-hover:opacity-45 transition-transform duration-300"
                 width="259"
               />
             </figure>
             <div class="p-1">
-              <h3 class="project-title">Arrival</h3>
-              <p class="opacity-60">Web Development</p>
+              <h3 class="font-semibold text-white  text-justify">Arrival</h3>
+              <p class="opacity-60 font-light">Web Development</p>
             </div>
           </a>
         </li>
