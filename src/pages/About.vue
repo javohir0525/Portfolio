@@ -126,12 +126,12 @@
                 />
               </figure>
 
-              <h4 class="text-xl font-bold ml-20" data-testimonials-title>
+              <h4 class="text-2xl mb-3 font-bold ml-20" data-testimonials-title>
                 Daniel Lewis
               </h4>
 
               <div
-                class="line-clamp-2 font-light text-[rgb(214,214,214)]"
+                class="line-clamp-2 text-base opacity-70"
                 data-testimonials-text
               >
                 <p>
@@ -157,12 +157,12 @@
                 />
               </figure>
 
-              <h4 class="text-xl font-bold ml-20" data-testimonials-title>
+              <h4 class="text-2xl mb-3 font-bold ml-20" data-testimonials-title>
                 Jessica Miller
               </h4>
 
               <div
-                class="line-clamp-2 font-light text-[rgb(214,214,214)]"
+                class="line-clamp-2 text-base opacity-70"
                 data-testimonials-text
               >
                 <p>
@@ -186,12 +186,12 @@
                 />
               </figure>
 
-              <h4 class="text-xl font-bold ml-20" data-testimonials-title>
+              <h4 class="text-2xl mb-3 font-bold ml-20" data-testimonials-title>
                 Emily Evans
               </h4>
 
               <div
-                class="line-clamp-2 font-light text-[rgb(214,214,214)]"
+                class="line-clamp-2 text-base opacity-70"
                 data-testimonials-text
               >
                 <p>
@@ -216,12 +216,12 @@
                 />
               </figure>
 
-              <h4 class="text-xl font-bold ml-20" data-testimonials-title>
+              <h4 class="text-2xl mb-3 font-bold ml-20" data-testimonials-title>
                 Henry Williams
               </h4>
 
               <div
-                class="line-clamp-2 font-light text-[rgb(214,214,214)]"
+                class="line-clamp-2 text-base opacity-70"
                 data-testimonials-text
               >
                 <p>
