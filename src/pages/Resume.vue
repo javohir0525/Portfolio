@@ -21,10 +21,10 @@
             class="w-3 h-3 relative top-8 rounded-full bg-[#ffdb70] border border-neutral-600 z-10"
           ></div>
           <div
-            class="w-3 h-3 relative top-23 rounded-full bg-[#ffdb70] border border-neutral-600 z-10 my-24"
+            class="w-3 h-3 relative top-18 rounded-full bg-[#ffdb70] border border-neutral-600 z-10 my-24"
           ></div>
           <div
-            class="w-3 h-3 rounded-full bg-[#ffdb70] border border-neutral-600 z-10 mt-24"
+            class="w-3 h-3 rounded-full bg-[#ffdb70] border border-neutral-600 z-10 mt-19"
           ></div>
         </div>
       </div>

@@ -5,9 +5,9 @@ import Nav from "./layouts/Nav.vue";
 
 <template>
   <main class="">
-    <div class="flex flex-row p-20 gap-5">
+    <div class="flex flex-col lg:flex-row p-10 gap-5">
       <div
-        class="bg-[#202022] rounded-2xl border-2 border-neutral-700 p-8 sticky top-14 h-full"
+        class="bg-[#202022] rounded-2xl border-2 border-neutral-700 p-8 lg:sticky top-10 h-full"
       >
         <Aside />
       </div>
