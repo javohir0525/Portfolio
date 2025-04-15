@@ -1,7 +1,7 @@
 <template>
-  <article class="text-white tracking-wide p-8" data-page="portfolio">
+  <article class="text-white tracking-wide px-8" data-page="portfolio">
     <header>
-      <h2 class="text-3xl font-bold mb-4">Portfolio</h2>
+      <h2 class="text-4xl font-bold mb-4">Portfolio</h2>
       <div class="w-12 h-1.5 rounded-full bg-[#ffdb70] mb-6"></div>
     </header>
 
@@ -44,7 +44,7 @@
         </ul>
       </div> -->
 
-      <ul class="grid grid-cols-3 gap-7">
+      <ul class="grid grid-cols-3 gap-7 mb-5">
         <li class="rounded-lg" data-filter-item data-category="web development">
           <a href="#!" class="flex flex-col gap-2">
             <figure class="group">
@@ -57,7 +57,7 @@
                 alt="finance"
                 class="rounded-xl group-hover:scale-105 group-hover:opacity-45 transition-transform duration-300"
                 loading="lazy"
-                width="259"
+                width="300"
               />
             </figure>
             <div class="p-1">
@@ -83,7 +83,7 @@
                 alt="orizon"
                 loading="lazy"
                 class="rounded-xl group-hover:scale-105 group-hover:opacity-45 transition-transform duration-300"
-                width="259"
+                width="300"
               />
             </figure>
             <div class="p-1">
@@ -109,7 +109,7 @@
                 alt="fundo"
                 loading="lazy"
                 class="rounded-xl group-hover:scale-105 group-hover:opacity-45 transition-transform duration-300"
-                width="259"
+                width="300"
               />
             </figure>
             <div class="p-1">
@@ -135,7 +135,7 @@
                 alt="brawlhalla"
                 loading="lazy"
                 class="rounded-xl group-hover:scale-105 group-hover:opacity-45 transition-transform duration-300"
-                width="259"
+                width="300"
               />
             </figure>
             <div class="p-1">
@@ -161,7 +161,7 @@
                 alt="dsm."
                 loading="lazy"
                 class="rounded-xl group-hover:scale-105 group-hover:opacity-45 transition-transform duration-300"
-                width="259"
+                width="300"
               />
             </figure>
             <div class="p-1">
@@ -187,7 +187,7 @@
                 alt="metaspark"
                 loading="lazy"
                 class="rounded-xl group-hover:scale-105 group-hover:opacity-45 transition-transform duration-300"
-                width="259"
+                width="300"
               />
             </figure>
             <div class="p-1">
@@ -213,7 +213,7 @@
                 alt="summary"
                 loading="lazy"
                 class="rounded-xl group-hover:scale-105 group-hover:opacity-45 transition-transform duration-300"
-                width="259"
+                width="300"
               />
             </figure>
             <div class="p-1">
@@ -239,7 +239,7 @@
                 alt="task manager"
                 loading="lazy"
                 class="rounded-xl group-hover:scale-105 group-hover:opacity-45 transition-transform duration-300"
-                width="259"
+                width="300"
               />
             </figure>
             <div class="p-1">
@@ -265,7 +265,7 @@
                 alt="arrival"
                 loading="lazy"
                 class="rounded-xl group-hover:scale-105 group-hover:opacity-45 transition-transform duration-300"
-                width="259"
+                width="300"
               />
             </figure>
             <div class="p-1">

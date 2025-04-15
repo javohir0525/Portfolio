@@ -1,7 +1,7 @@
 <template>
   <article class="text-white tracking-wide px-8" data-page="blog">
     <header>
-      <h2 class="text-3xl font-bold mb-3">Blog</h2>
+      <h2 class="text-4xl font-bold mb-3">Blog</h2>
       <div class="w-12 h-1.5 rounded-full bg-[#ffdb70] mb-4"></div>
     </header>
 
@@ -15,6 +15,7 @@
                 alt="Design conferences in 2024"
                 loading="lazy"
                 class="rounded-2xl"
+                width="429"
               />
             </figure>
 
@@ -43,6 +44,7 @@
                 alt="Best fonts every designer"
                 loading="lazy"
                 class="rounded-2xl"
+                width="429"
               />
             </figure>
 
@@ -72,6 +74,7 @@
                 alt="Design digest #80"
                 loading="lazy"
                 class="rounded-2xl"
+                width="429"
               />
             </figure>
 
@@ -101,6 +104,7 @@
                 alt="2023 UI interactions"
                 loading="lazy"
                 class="rounded-2xl"
+                width="429"
               />
             </figure>
 
@@ -130,6 +134,7 @@
                 alt="The forgotten art of spacing"
                 loading="lazy"
                 class="rounded-2xl"
+                width="429"
               />
             </figure>
 
@@ -160,6 +165,7 @@
                 alt="Design digest #79"
                 loading="lazy"
                 class="rounded-2xl"
+                width="429"
               />
             </figure>
 

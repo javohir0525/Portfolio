@@ -1,7 +1,7 @@
 <template>
   <article class="text-white px-8 tracking-wide" data-page="resume">
     <header>
-      <h2 class="text-3xl font-bold mb-5 tracking-wide">Resume</h2>
+      <h2 class="text-4xl font-bold mb-5 tracking-wide">Resume</h2>
       <div class="w-12 h-1.5 rounded-full bg-[#ffdb70] mb-4"></div>
     </header>
 

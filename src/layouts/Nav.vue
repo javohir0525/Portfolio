@@ -1,5 +1,6 @@
 <template>
-    <nav class="flex items-center justify-center">
+  <div class="flex justify-center">
+    <nav>
       <ul class="flex space-x-10 text-white">
         <li class="navbar-item">
           <router-link
@@ -43,4 +44,5 @@
         </li>
       </ul>
     </nav>
+  </div>
 </template>

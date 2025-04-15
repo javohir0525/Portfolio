@@ -30,7 +30,7 @@
         <ul class="grid grid-cols-2 gap-6 items-center mb-10">
           <!-- 1 -->
           <li
-            class="flex p-6 bg-[#292929] rounded-xl scale-100 shadow-2xl hover:scale-95 transition bg-gradient-to-br from-neutral-700/100 via-gray-700/0 via-50%"
+            class="flex p-6 bg-[#292929] h-full rounded-xl scale-100 shadow-2xl hover:scale-95 transition bg-gradient-to-br from-neutral-700/100 via-gray-700/0 via-50%"
           >
             <div class="mt-2">
               <img
@@ -50,7 +50,7 @@
           </li>
           <!-- 2 -->
           <li
-            class="flex p-6 bg-[#292929] rounded-xl scale-100 shadow-2xl hover:scale-95 transition bg-gradient-to-br from-neutral-700/100 via-gray-700/0 via-50%"
+            class="flex p-6 bg-[#292929] h-full rounded-xl scale-100 shadow-2xl hover:scale-95 transition bg-gradient-to-br from-neutral-700/100 via-gray-700/0 via-50%"
           >
             <div class="mt-2">
               <img
@@ -69,7 +69,7 @@
           </li>
           <!-- 3 -->
           <li
-            class="flex p-6 bg-[#292929] rounded-xl scale-100 shadow-2xl hover:scale-95 transition bg-gradient-to-br from-neutral-700/100 via-gray-700/0 via-50%"
+            class="flex p-6 bg-[#292929] h-full rounded-xl scale-100 shadow-2xl hover:scale-95 transition bg-gradient-to-br from-neutral-700/100 via-gray-700/0 via-50%"
           >
             <div class="mt-2">
               <img
@@ -88,7 +88,7 @@
           </li>
           <!-- 4 -->
           <li
-            class="flex p-6 bg-[#292929] rounded-xl scale-100 shadow-2xl hover:scale-95 transition bg-gradient-to-br from-neutral-700/100 via-gray-700/0 via-50%"
+            class="flex p-6 bg-[#292929] h-full rounded-xl scale-100 shadow-2xl hover:scale-95 transition bg-gradient-to-br from-neutral-700/100 via-gray-700/0 via-50%"
           >
             <div class="mt-2">
               <img
@@ -110,10 +110,10 @@
       </div>
     </section>
     <!-- testimonials -->
-    <section class="w-full">
-      <h3 class="text-2xl font-bold mb-10 tracking-wide">Testimonials</h3>
-      <div class="w-full">
-        <ul class="space-x-5 min-w-[789px] mb-6">
+    <section class="">
+      <h3 class="text-2xl font-bold mb-14 tracking-wide">Testimonials</h3>
+      <div class="">
+        <ul class="space-x-5 mb-6">
           <li class="bg-[#262424] p-5 w-full mb-10 rounded-2xl bg-gradient-to-br from-neutral-700/100 via-gray-700/0 via-50% cursor-pointer hover:shadow-lg hover:scale-105 transition duration-300
           ">
             <div class="relative">
@@ -145,7 +145,7 @@
             </div>
           </li>
 
-          <li class="bg-[#262424] rounded-2xl mb-10 p-5 bg-gradient-to-br from-neutral-700/100 via-gray-700/0 via-60% cursor-pointer hover:shadow-lg hover:scale-105 transition duration-300">
+          <li class="bg-[#262424] w-full rounded-2xl mb-10 p-5 bg-gradient-to-br from-neutral-700/100 via-gray-700/0 via-60% cursor-pointer hover:shadow-lg hover:scale-105 transition duration-300">
             <div class="relative">
               <figure class="">
                 <img
@@ -174,7 +174,7 @@
             </div>
           </li>
 
-          <li class="bg-[#262424] rounded-2xl mb-10 p-5 bg-gradient-to-br from-neutral-700/100 via-gray-700/0 via-50% cursor-pointer hover:shadow-lg hover:scale-105 transition duration-300">
+          <li class="bg-[#262424] w-full rounded-2xl mb-10 p-5 bg-gradient-to-br from-neutral-700/100 via-gray-700/0 via-50% cursor-pointer hover:shadow-lg hover:scale-105 transition duration-300">
             <div class="relative" data-testimonials-item>
               <figure class="">
                 <img
