@@ -1,5 +1,5 @@
 <template>
-  <div class="flex justify-center">
+  <div class="flex justify-start overflow-x-auto overflow-hidden whitespace-nowrap">
     <nav>
       <ul class="flex space-x-10 text-white">
         <li class="navbar-item">

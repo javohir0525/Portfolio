@@ -6,20 +6,22 @@
     </header>
 
     <section class="">
-      <ul class="flex gap-4 mb-8">
-        <li class="hover:text-gray-300 transition active:text-[#ffdb70]">
-          <button class="cursor-pointer" data-filter-btn>All</button>
-        </li>
-        <li class="hover:text-gray-300 transition active:text-[#ffdb70]">
-          <button class="cursor-pointer">Web Design</button>
-        </li>
-        <li class="hover:text-gray-300 transition active:text-[#ffdb70]">
-          <button class="cursor-pointer">Applications</button>
-        </li>
-        <li class="hover:text-gray-300 transition active:text-[#ffdb70]">
-          <button class="cursor-pointer">Web Development</button>
-        </li>
-      </ul>
+      <div>
+        <ul class="flex gap-4 mb-8 overflow-x-auto overflow-hidden whitespace-nowrap no-scrollbar">
+          <li class="hover:text-gray-300 transition active:text-[#ffdb70]">
+            <button class="cursor-pointer" data-filter-btn>All</button>
+          </li>
+          <li class="hover:text-gray-300 transition active:text-[#ffdb70]">
+            <button class="cursor-pointer">Web Design</button>
+          </li>
+          <li class="hover:text-gray-300 transition active:text-[#ffdb70]">
+            <button class="cursor-pointer">Applications</button>
+          </li>
+          <li class="hover:text-gray-300 transition active:text-[#ffdb70]">
+            <button class="cursor-pointer">Web Development</button>
+          </li>
+        </ul>
+      </div>
 
       <!-- <div class="filter-select-box">
         <button class="filter-select" data-select>
@@ -44,7 +46,7 @@
         </ul>
       </div> -->
 
-      <ul class="grid grid-cols-3 gap-7 mb-5">
+      <ul class="grid lg:grid-cols-3 md:grid-cols-2 sm:grid-cols-1 gap-7 mb-5">
         <!-- 1 -->
         <portfolioItems blog-src="https://i.postimg.cc/qRHpHMyd/project-1.jpg">
           <template v-slot:title>Finance</template>
