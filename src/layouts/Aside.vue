@@ -22,7 +22,7 @@
 
     <div class="">
 
-      <ul class="grid  md:grid-cols-2 lg:grid-cols-1 gap-7">
+      <ul class="grid md:grid-cols-2 lg:grid-cols-1 gap-7">
         <!-- 1 -->
         <li class="flex items-center gap-3">
           <div class="bg-[#2b2b2c] px-3 py-2 bg-[linear-gradient(to_bottom_right,_#3f3f40_50%,_#303030_0%)] rounded-lg">
@@ -53,7 +53,7 @@
         </li>
         <!-- 3 -->
         <li class="flex flex-center gap-3">
-          <div class="bg-[#2b2b2c] px-3 py-2 bg-[linear-gradient(to_bottom_right,_#3f3f40_50%,_#303030_0%)] rounded-lg">
+          <div class="bg-[#2b2b2c] px-3 py-2 bg-[linear-gradient(to_bottom_right,_#3f3f40_50%,_#303030_0%)] rounded-lg h-fit">
             <ion-icon class="text-[#ffdb70]" name="calendar-outline"></ion-icon>
           </div>
 
