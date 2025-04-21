@@ -1,5 +1,7 @@
 <template>
-  <div class="flex justify-start overflow-x-auto overflow-hidden whitespace-nowrap">
+  <div
+    class="flex justify-start overflow-x-auto overflow-hidden whitespace-nowrap no-scrollbar"
+  >
     <nav>
       <ul class="flex space-x-10 text-white">
         <li class="navbar-item">
