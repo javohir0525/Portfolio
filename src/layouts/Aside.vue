@@ -27,19 +27,17 @@
     <div class="">
       <ul class="grid md:grid-cols-2 lg:grid-cols-1 gap-7">
         <!-- 1 -->
-        <li class="flex items-center gap-3">
+        <li class="w-full flex overflow-hidden items-center gap-3">
           <div
             class="bg-[#2b2b2c] px-3 py-2 bg-[linear-gradient(to_bottom_right,_#3f3f40_50%,_#303030_0%)] rounded-lg"
           >
             <ion-icon class="text-[#ffdb70]" name="mail-outline"></ion-icon>
           </div>
 
-          <div class="flex flex-col text-start overflow-hidden">
+          <div class="flex flex-col w-full items-start overflow-hidden">
             <p class="uppercase text-xs font-semibold text-gray-400">Email</p>
 
-            <a href="mailto:richard@example.com" class="tracking-wide overflow-x-auto no-scrollbar"
-              >shuxratovjavohir4@gmail.com</a
-            >
+            <a href="mailto:richard@example.com" class="truncate">shuxratovjavohir4@gmail.com</a>
           </div>
         </li>
         <!-- 2 -->

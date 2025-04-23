@@ -9,19 +9,10 @@ const routes = [
   {
     path: "/",
     component: About,
-    meta: {
-      enterClass: "animate__animated animate__fadeInLeft",
-      leaveClass: "animate__animated animate__fadeOutRight",
-    },
   },
   {
     path: "/about",
-    name: "about",
     component: About,
-    meta: {
-      enterClass: "animate__animated animate__fadeInRight",
-      leaveClass: "animate__animated animate__fadeOutLet",
-    },
   },
   {
     path: "/blog",
